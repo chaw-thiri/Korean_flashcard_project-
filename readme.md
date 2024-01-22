@@ -2,7 +2,7 @@
 
 ## Overviewℹ️
 
-This is a simple flashcard learning app designed to help users practice and learn new Korean words efficiently. The app sources its initial set of words from the 1000 most frequent Korean words provided by the National Institute of the Korean Language. The app allows users to interact with flashcards, testing their knowledge of Korean words and removing familiar words from the practice list.
+This is a simple flashcard learning app designed to help users practice and learn new Korean words efficiently. The app sources its initial set of words from the 1000 most frequent Korean words provided by **the National Institute of the Korean Language**. The app allows users to interact with flashcards, testing their knowledge of Korean words and removing familiar words from the practice list.
 
 ## Features✨
 
